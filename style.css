@@ -1,0 +1,23 @@
+body {
+    background-color: #0b0f0c;
+    color: #d8ffe1;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: #00ff66;
+}
+
+h2 {
+    color: #1db954;
+    margin-top: 20px;
+}
+
+div {
+    background-color: #121a14;
+    border-left: 4px solid #00ff66;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
